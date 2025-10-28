@@ -1,1 +1,2 @@
-# this should contain a code for bc 
+# bc
+blockchain and making a crypto test
